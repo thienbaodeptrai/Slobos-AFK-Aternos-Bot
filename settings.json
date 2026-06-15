@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "frenchies.seedloaf.gg",
-    "port": 19132,
+    "ip": "protea.seedloaf.com",
+    "port": 49326,
     "version": "",
     "try-creative": false
   },
